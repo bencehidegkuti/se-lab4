@@ -1,3 +1,5 @@
 SUCCESS # creating spaceship
-SUCCESS
+FAIL
 SUCCESS  #firing both torpedos
+FAIL
+SUCCESS

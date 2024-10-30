@@ -1,4 +1,6 @@
 # Creating spaceship with 2 Secondary torpedo
-GT4500,0,0,2,0
+GT4500,2,1,2,0
 TORPEDO,SINGLE
-TORPEDO,SINGLE # Fired both torpedos
+TORPEDO,SINGLE 
+TORPEDO,SINGLE
+TORPEDO,SINGLE 
